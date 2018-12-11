@@ -1,0 +1,1 @@
+# This location is created to put out-of-box use cases
